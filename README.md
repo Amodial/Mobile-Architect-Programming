@@ -1,4 +1,4 @@
-Summary of Requirements and Goals
+#Summary of Requirements and Goals#
 
 The inventory app was designed to help users efficiently manage and track their inventory items. The
 primary user need it addressed was the ability to add, delete, and update items in real-time, ensuring
